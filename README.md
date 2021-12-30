@@ -1,4 +1,4 @@
-# Commit-Metriken für das OpenSource-Funkwhale-Projekt
+# Commit-Metriken für das Funkwhale-Projekt
 
 - simple Visualisierung der Repository-Aktivitäten des [Funkwhale-Projekts](https://funkwhale.audio/)
 
